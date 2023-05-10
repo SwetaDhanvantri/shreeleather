@@ -1,0 +1,293 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif !important;
+   background-color: rgb(255, 255, 255);
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+/*-----======= Responsive==================--------------------*/
+@media (max-width: 991.98px){
+.navbar-expand-lg > .container, .navbar-expand-lg > .container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.navbar > .container, .navbar > .container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+}
+@media (min-width: 768px){
+.container {
+    max-width: 720px;
+}
+}
+@media (min-width: 576px){
+.container {
+    max-width: 540px;
+}
+}
+
+@media (max-width: 992px){
+    #wrapper .navbar-light .navbar-toggler {
+        border-color: rgba(0, 0, 0, 0);
+        margin: 0px;
+        padding: 8px;
+        background: rgb(255, 255, 255);
+    }
+    }
+    /*-----==*******************======= Responsive==================------*******************---------------*/
+    .navbar-collapse{
+        background-color:#005ca9;
+    }
+    #wrapper .header .menubar {
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+        border-image: initial;
+        height: 66px;
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        background-color: rgb(0, 92, 169);
+        border-top: 2px solid rgb(243, 152, 62);
+    }
+
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.1);
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.logo img {
+    max-width: 180px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 0px 5px;
+    border-radius: 10px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+#wrapper .menubar .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 22px 18px;
+    line-height: normal;
+    font-weight: 400;
+    position: relative;
+    transition: all 0.4s ease 0s;
+    letter-spacing: 1px;
+}
+/*---------- nav button*-------*/
+#wrapper .menubar .navbar-nav li:nth-last-child(1) .nav-link {
+    border-right: none;
+}
+
+.navbar-nav .get-started-btn {
+    background: rgb(17, 17, 84);
+    border-radius: 40px;
+    padding: 10px 12px !important;
+    margin-top: 12px !important;
+}
+/*---------- nav button*-------*/
+
+/*---------- sectionpanel-------*/
+.sectionpanel {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 45px 0px;
+    position: relative;
+    overflow: hidden;
+}
+.sectionpanel.gray-bg {
+    background: rgb(250, 250, 250) !important;
+}
+.gray-bg {
+    background: rgb(250, 250, 250) !important;
+}
+#wrapper .heading {
+    padding: 5px 0px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+/*---------- sectionpanel*-------*/
+
+/*---------- heading-------*/
+.main-heading h2 {
+    color: rgb(53, 67, 78);
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-weight: bolder;
+    position: relative;
+}
+.main-heading h2 > span {
+    color: rgb(7, 177, 7);
+}
+/*--------**-- heading-------*/
+/*------List*--------------*/
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.ourServicesAll {
+    font-size: 14px;
+    padding: 50px 15px;
+}
+
+/*-------------item carsouel ----- */
+.slider-container{
+    position: relative;
+    background: rgb(250, 250, 250);
+    overflow-x: hidden;
+    height: 250px;
+  }
+  .slider-width{
+     position: absolute;
+     display: flex;
+     align-items: start;
+     justify-content: start;
+     left: 0;
+     top: 0;
+     transition: 0.4s ease-in-out;
+  }
+  .item{
+    background: rgb(250, 250, 250);
+    width: 150px;
+    height: 250px;
+    margin: 0 10px;
+    text-align: left;
+  }
+  .slider-container img{
+    width: 40px;
+    height: auto;
+  }
+  .next {
+    padding: 5px 20px;
+    border: 1px solid rgb(221, 221, 221);
+    margin-left: 10px;
+}
+  .slider-containers{
+    position: relative;
+    overflow-x: hidden;
+    height: 350px;
+  }
+  .slider-widths{
+     position: absolute;
+     display: flex;
+     flex-wrap: wrap;
+     /* align-items: start;
+     justify-content: stretch; */
+     left: 0;
+     top: 0;
+     
+  }
+  .items{
+    background-color:  rgb(255, 255, 255);
+    width: 250px;
+    height: 350px;
+    margin: 0 10px;
+    text-align: left;
+  }
+  .slider-containers img{
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  #whyIndi .case-study .txt-lrg {
+    font-size: 18px;
+    font-weight: bold !important;
+    margin: 22px 0px 17px;
+    min-height: auto;
+    color: rgb(51, 51, 51);
+}
+#whyIndi #wrapper p {
+    font-size: 14px;
+    letter-spacing: 0.6px;
+}
+
+
+  /*----------Need documents--------------*/
+  .listDoc li {
+    padding: 0px 15px 15px;
+    border-bottom: 1px dashed rgb(153, 153, 153);
+    display: block;
+    margin: 5px 5px 10px;
+}
+
+/*-----------Footer-----------------*/
+.footerpanel .listfoot h5 {
+    color: rgb(255, 255, 255) !important;
+}
+.footerpanel .listfoot li a {
+    color: rgb(255, 255, 255) !important;
+}
+.contactInfo strong {
+    color: rgb(255, 255, 255) !important;
+}
+.contactInfo h5 {
+    color: rgb(255, 255, 255) !important;
+}
+.contactInfo .listadd li {
+    font-size: 13px;
+    line-height: 17px;
+    margin-bottom: 10px;
+    display: flex;
+    color: rgb(255, 255, 255);
+    align-items: center !important;
+}
+.contactInfo a {
+    color: rgb(255, 255, 255) !important;
+}
+
+/*---------FAQ -----*/
+.DocPanelDiv button{
+    color: rgb(108, 117, 125);
+}
+.DocPanelDiv {
+    display: block;
+}
+/*----benifits for fp ---*/
+
+#whyIndi .case-study img {
+    width: 80px;
+    height: 80px;
+    padding: 16px;
+    border-radius: 10px;
+    background: rgb(22, 92, 169);
+}
+case-study{
+    background: rgb(22, 92, 169);
+}

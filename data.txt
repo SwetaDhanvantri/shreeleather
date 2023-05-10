@@ -1,0 +1,636 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-90353ebf-29a9-4963-946e-a0d80bab958d@mhtml.blink"><link rel="stylesheet" type="text/css" href="cid:css-9e1393a4-1d98-410a-98f0-380151395987@mhtml.blink"><link rel="stylesheet" type="text/css" href="cid:css-732c3363-a5c1-4e16-ac29-4e27c9eb5cd8@mhtml.blink">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sreeleathers ! Sreeleathers Ltd</title>
+  <meta name="keywords" content="Sreeleathers ! Sreeleathers Ltd">
+  <meta name="Description" content="Sreeleathers ! Sreeleathers Ltd">
+                               <!-- Global site tag (gtag.js) - Google Analytics -->
+  
+  <!-- =============== Assets==============-->
+  <link rel="stylesheet" href="./assets/style.css">
+  <link rel="stylesheet" href="./assets/fontawesome-free-6.2.0-web/css/all.min.css">
+  <!-- Bootstrap -->
+  <!-- <link rel="shortcut icon" type="image/x-icon" href="https://sreeleather.org/assets/front/images/favicon.png"> -->
+  
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+
+ 
+  
+  </head>
+  <body id="HOME">
+
+    <div id="wrapper">
+    
+    <header class="header mobilScreen sticky-top">
+        <nav class="navbar menubar navbar-expand-lg navbar-light">
+        <div class="container">
+                <a class="navbar-brand logo" > 
+                  
+                  <img src="./assets/img/logo.png" class="img-fluid" alt="">
+                </a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <div class="d-sm-none m-3">
+                      <a class="" href="https://sreeleather.org/"><img src="./assets/img/logo.png" class="img-fluid" alt=""></a>
+                  </div>
+                <ul class="navbar-nav " id="DIVAC">
+                  <li class="nav-item"><a class="nav-link" href="#ABOUTUS">Abouts</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#Process">Process</a></li>            
+                  <li class="nav-item"><a class="nav-link" href="#OURSERVICES">Services</a></li>               
+                  <li class="nav-item"><a class="nav-link" href="#BENEFITS">Benefits</a></li> 
+                  <li class="nav-item"><a class="nav-link" href="#FAQ">Faq</a></li>   
+                  <li class="nav-item"><a class="nav-link" href="#DOCUMENTS">Documents</a></li>              
+                  
+                  <li class="nav-item"><a class="nav-link" href="https://sreeleather.org/status">Login</a></li>
+                  <li class="nav-item"><a class="get-started-btn nav-link" href="https://sreeleather.org/apply-now">Apply Online</a></li>
+                  
+                </ul>
+              </div>
+             
+        </div><!-- end of container -->
+        </nav>
+    </header><!-- end of header -->
+    
+    <div class="menu-overlay"></div>
+
+
+  
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="./assets/img/banner1.png" alt="First slide">
+        </div>
+        <!-- <div class="carousel-item">
+          <img class="d-block w-100" src="" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="" alt="Third slide">
+        </div> -->
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+<!--end of sliderpanel -->
+    
+    <section class="sectionpanel" style="padding: 5px 0px;">
+    <div class="container">
+      
+    </div>
+    </section>
+    
+    <section style="padding: 5px 0px;" class="sectionpanel AboutSection" id="ABOUTUS">
+    <div class="container">
+    <div class="contentDiv">    
+    <div class="row">
+    <!-- <div class="col-lg-5 col-md-5">
+        <img src="https://sreeleather.org/assets/front/images/consumer-video.png" class="img-fluid">
+    </div>end of col -->
+    <div class="col-lg-5 col-md-5">
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active ">
+          <img class="d-block w-100 " src="https://cdn.shopify.com/s/files/1/0569/0284/4581/products/Lewis_Leather_Oxford_Shoes_In_Tan-FOPM0109C1SS21FX-image5.jpg?v=1661698764" alt="First slide">
+          
+         
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100 " src="https://cdn.shopify.com/s/files/1/0569/0284/4581/products/Lewis_Leather_Oxford_Shoes_In_Tan-FOPM0109C1SS21FX-image1.jpg?v=1661698764" alt="Second slide">
+        </div>
+        <div class="carousel-item ">
+          <img class="d-block w-100 " src="./assets/img/mini-2.png" alt="Third slide">
+        </div>
+       
+      </div>
+    </div>
+        <!-- <img src="https://sreeleather.org/assets/front/images/video.jpg" class="img-fluid"> -->
+    </div><!-- end of col -->
+    
+    <div class="col-lg-7 col-md-7">
+    <div class="about-content text-center">
+      <h3><a href="https://sreeleather.org/apply-now" class="btn btn-success">Apply For franchise</a></h3>
+    <h4 class="text-success">Apply for Sreeleathers franchise</h4>
+    <div class="about-details"> 
+    <div class="single-about">
+    <p>
+    The history of Sreeleathers dates back almost a century. It was a time when India was striving to fight the British rule in India. <b>Late Suresh Chandra Dey</b>, the father of Sreeleathers, was a freedom fighter and his only aim was to help India gain complete independence.</p>
+    <p>Sreeleathers is one of the leading shoe and leather accessories brands in India. The company is also looking to expand its network with like-minded partners.It is a Kolkata-based company. Today, Sreeleathers caters to public demand not only with the widest range of shoes but also with allied products and accessories.</p>
+    
+    <h5 class="text-success">Product &amp; Services</h5>
+    <p>
+    The company manufactures, distributes and sells a wide range of leather items including shoes, sandals, bags, belts, purse, wallet, etc.
+    </p>
+    </div>
+    </div>
+    </div><!-- end of col -->
+    </div><!-- end of col -->
+    
+    </div><!-- end of row -->
+    
+    </div><!-- end of contentDiv -->
+    </div><!-- end of container -->
+    </section><!-- end of sectionpanel -->
+    
+    <!----Sreeleathers services-->
+    <section >
+    <div class="container">
+    <div class="heading">Know how to become a <span class="text-success">Sreeleathers Service  Franchise</span></div>
+    <div class="slider-container ourServicesAll" item-display-d="4" item-display-t="3"  item-display-m="2">
+      <div class="slider-width">
+        <div class="item">
+          <img src="./assets/img/save-money.png" alt=" " />
+      <p> <strong>Make Minimal <br>Investment </strong><br>Only invest ₹5 lacs* and get started. <span class="small-text">(*Refundable security deposit based on the business model)</span>
+      </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/support.png" alt="">
+          <p> <strong>Receive Training <br>&amp; Support </strong> <br>Sreeleathers Service team deploys  (based on the business model) and provides complete training and suppor.
+          </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/deal.png" alt="">
+          <p>  <strong>Start your <br> Franchise</strong><br> Launch and manage daily operations, including promotions, cash loading, first-level maintenance, etc.
+          </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/investment.png" alt="">
+          <p> <strong>Get High Return on Investment </strong><br> Earn on every cash and non-cash transaction. An opportunity to earn up to 33% ROI* in the 1<sup>st</sup> year itself. <span class="small-text">(*Based on 100 calculations//day/month)</span></p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/flexibility.png" alt="">
+      <p> <strong>Flexible Business <br>Models</strong> <br>Choose from an existing Sreeleathers Service site or propose a commercial space (60-80 sq.ft.) in a high footfall area.
+      </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/relationship.png" alt="">
+          <p> <strong>Complete Onboarding Formalities</strong><br> Submit the registration form along with the requested financial &amp; KYC documents.</p>
+        </div>
+       
+       
+      </div>
+      </div>
+      <button type="button" class="btn" onclick="prev()">Previous</button>
+      <button type="button" class="btn" onclick="next()">Next</button>
+
+
+
+    </div><!-- end of container -->
+    </section><!-- end of sectionpanel -->
+    
+    <section style="padding: 15px 0px;" class="sectionpanel SerWel" id="OURSERVICES">
+    <div class="container">
+        <div class="col-md-12 col-sm-12 col-xs-12 small-padding main-heading"><h2>Sreeleathers <span>Services</span> 
+    </h2></div>
+        <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-header py-3">
+                <h4 class="my-0 fw-normal">Area Required</h4>
+              </div>
+              <div class="card-body" style="padding:0px">
+                <!-- <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1> -->
+                <ul class="list-unstyled mt-3 mb-4">
+                  <li class="list-group-item">The area required to open a Sreeleathers Store is 1500 – 4000 Sq.ft which should include a franchise store and a counter.</li>
+                 <li class="list-group-item">The built-up area requirement differs depending upon the location of your Franchise franchise store.</li>
+                 <li class="list-group-item">Minimum staff required to work at a Sreeleathers franchise store is 10 to 12 people operate your franchise store.</li>
+                 <li class="list-group-item">Help center access</li>
+                </ul>
+                <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm">
+              <div class="card-header py-3">
+                <h4 class="my-0 fw-normal">Skills Required</h4>
+              </div>
+              <div class="card-body" style="padding:0px">
+               <!--  <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1> -->
+                <ul class="list-unstyled mt-3 mb-4">
+                  <li class="list-group-item">Individuals who are passionate and have a desire to grow and be a part of the fast Service growing industry.</li>
+                  <li class="list-group-item">The people should be willing to accept the challenges faced on a daily basis and should be able to work well with other people.</li>
+                  <li class="list-group-item">The employees should have good communication skills, culinary cooking skills and should be courteous to the customers.</li>
+                  <li class="list-group-item">The candidate should at least be 10th pass.</li>
+                </ul>
+                <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card mb-4 rounded-3 shadow-sm border-primary">
+              <div class="card-header py-3">
+                <h4 class="my-0 fw-normal">Training Required</h4>
+              </div>
+              <div class="card-body" style="padding:0px">
+                <!-- <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1> -->
+                <ul class="list-group text-center list-unstyled mt-3 mb-4">
+                  <li class="list-group-item">Sreeleathers provides 1 week classroom and on-the-job training to all its Franchise employees.</li>
+                  <li class="list-group-item">The training includes soft skill training, customer handling, improving their culinary skills and how to achieve their sale target effectively and efficiently.</li>
+                  <li class="list-group-item">Phone and email support</li>
+                </ul>
+                <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div><!-- end of container -->   
+    </section>
+    
+
+    <!------=====================Benifits for Franchise Partners=============-->
+    <section style="padding: 15px 0px;" class="sectionpanel gray-bg" id="BENEFITS">
+    <div class="container">
+    <h3 class="heading">
+        Benefits for <span class="text-success">Franchise Partners</span>
+    </h3>
+    <div class="slider-container" item-display-d="4" item-display-t="3"  item-display-m="2">
+      <div class="slider-width">
+        <div class="item">
+          <img src="./assets/img/save-money.png" alt=" " />
+          <p class="txt-lrg">Entrepreneurial Opportunity</p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/support.png" alt="">
+          <p> <strong>Receive Training <br>&amp; Support </strong> <br>Sreeleathers Service team deploys  (based on the business model) and provides complete training and suppor.
+          </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/deal.png" alt="">
+          <p>  <strong>Start your <br> Franchise</strong><br> Launch and manage daily operations, including promotions, cash loading, first-level maintenance, etc.
+          </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/investment.png" alt="">
+          <p> <strong>Get High Return on Investment </strong><br> Earn on every cash and non-cash transaction. An opportunity to earn up to 33% ROI* in the 1<sup>st</sup> year itself. <span class="small-text">(*Based on 100 calculations//day/month)</span></p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/flexibility.png" alt="">
+      <p> <strong>Flexible Business <br>Models</strong> <br>Choose from an existing Sreeleathers Service site or propose a commercial space (60-80 sq.ft.) in a high footfall area.
+      </p>
+        </div>
+        <div class="item">
+          <img src="./assets/img/relationship.png" alt="">
+          <p> <strong>Complete Onboarding Formalities</strong><br> Submit the registration form along with the requested financial &amp; KYC documents.</p>
+        </div>
+       
+       
+      </div>
+      </div>
+      <button type="button" class="btn" onclick="prev()">Previous</button>
+      <button type="button" class="btn" onclick="next()">Next</button>
+
+    <!-- <ul id="whyIndi" class="list-unstyled list-three owl-carousel owl-theme owl-loaded owl-drag">
+    
+    
+    
+    
+    
+    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1400px, 0px, 0px); transition: all 0.25s ease 0s; width: 2800px;"><div class="owl-item cloned" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon8.svg" alt="Enterpreneurial Opportunity">
+          <p class="txt-lrg">Entrepreneurial Opportunity</p>
+          <p>Start a business that is low on investment and big on returns</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item cloned" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon15.svg" alt="24*7 support &amp; Traning">
+          <p class="txt-lrg">24*7 Support &amp; Training</p>
+          <p>A strong operational and technical back-end team to support you to manage your business operations</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon2.svg" alt="No Investment Required">
+          <p class="txt-lrg">Minimal Investment Required</p>
+          <p>No CapEx, you pay only the refundable deposit</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon7.svg" alt="High ROI">
+          <p class="txt-lrg">High Return on Investment</p>
+          <p>Get high return on your existing real estate; with 5x more earning potential than renting it out</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item active" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon8.svg" alt="Enterpreneurial Opportunity">
+          <p class="txt-lrg">Entrepreneurial Opportunity</p>
+          <p>Start a business that is low on investment and big on returns</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item active" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon15.svg" alt="24*7 support &amp; Traning">
+          <p class="txt-lrg">24*7 Support &amp; Training</p>
+          <p>A strong operational and technical back-end team to support you to manage your business operations</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item cloned" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon2.svg" alt="No Investment Required">
+          <p class="txt-lrg">Minimal Investment Required</p>
+          <p>No CapEx, you pay only the refundable deposit</p>
+        </div>
+      </div>
+    </li></div><div class="owl-item cloned" style="width: 340px; margin-right: 10px;"><li class="item">
+      <div class="boxshadow">
+        <div class="case-study"> <img src="https://sreeleather.org/assets/front/images/icon7.svg" alt="High ROI">
+          <p class="txt-lrg">High Return on Investment</p>
+          <p>Get high return on your existing real estate; with 5x more earning potential than renting it out</p>
+        </div>
+      </div>
+    </li></div></div></div><div class="owl-nav"><div class="owl-prev">prev</div><div class="owl-next">next</div></div>
+    <div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div>
+  </ul>  -->
+    </div><!-- end of container -->
+    </section><!-- end of sectionpanel -->
+
+    
+    <!-- ====================FAQ-Section-========================================-->
+    <section class="sectionpanel DocPanelDiv" style="padding: 15px 0px;" id="FAQ">
+    <div class="container">
+        <div class="col-md-12 col-sm-12 col-xs-12 small-padding main-heading"><h2>Frequently <span> Asked</span> Questions</h2></div>
+        
+     <div class="col-md-12 col-sm-12 col-xs-12 accordion" id="accordionExample">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h5 class="mb-0">
+            <button class="btn btn-link " type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+    How to apply for a Sreeleathers Franchise?
+            </button>
+          </h5>
+        </div>
+    
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+          <div class="card-body">
+           The Sreeleathers Franchise process starts by an individual visiting the company’s official website and submitting his personal details like name, contact number, and email address. Then he or she is contacted by the people at Sreeleathers to take things ahead.
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              What is the actual cost of Sreeleathers Franchise?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+          <div class="card-body">
+           Sreeleathers Franchise cost comes to around 20 lakh to 1 Cr.
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingThree">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              Is Sreeleathers Franchise Profitable?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+          <div class="card-body">
+    Yes, Of Course! Profitable. you will see there is a great earning opportunity with Sreeleathers. Here your invested capital, you can easily recover within a couple of months. A Franchise can make around 2-3 lakh as profit in a single month can earn back the initial investment amount in a period of 12 to 18 months
+          </div>
+        </div>
+      </div>
+    
+    <div class="card">
+        <div class="card-header" id="headingfour">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree4" aria-expanded="false" aria-controls="collapseThree4">
+             How many working staff members are needed?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree4" class="collapse" aria-labelledby="collapseThree4" data-parent="#accordionExample">
+          <div class="card-body">
+    At least 10 to 12 staff members are required to operate your Sreeleathers outlet/shop.
+          </div>
+        </div>
+      </div>
+    
+    <div class="card">
+        <div class="card-header" id="headingFive">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree5" aria-expanded="false" aria-controls="collapseThree5">
+             How much area/space is required for the Outlet?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree5" class="collapse" aria-labelledby="collapseThree5" data-parent="#accordionExample">
+          <div class="card-body">
+           The area required to open a Sreeleathers outlet is at least 1500 to 4000 Sq.ft. This is minimum space needed for your shop &amp; there is no limitation for bigger space.
+          </div>
+        </div>
+      </div>
+    
+    <div class="card">
+        <div class="card-header" id="headingSeven">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree6" aria-expanded="false" aria-controls="collapseThree6">
+              What is the Franchise fee to own the franchise of Sreeleathers Outlet?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree6" class="collapse" aria-labelledby="collapseThree6" data-parent="#accordionExample">
+          <div class="card-body">
+    The amount of Rs. 5 lakh is taken by the company to provide the Sreeleathers franchise.
+          </div>
+        </div>
+      </div>
+    
+    <div class="card">
+        <div class="card-header" id="headingSevens">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree7" aria-expanded="false" aria-controls="collapseThree7">
+             How much will be the Registration Charge of Sreeleathers Franchise?
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree7" class="collapse" aria-labelledby="collapseThree7" data-parent="#accordionExample">
+          <div class="card-body">
+    The Registration Charge for getting franchise of Sreeleathers is Rs.35,000 + 18% GST.
+          </div>
+        </div>
+      </div>
+    
+    </div>
+    </div>
+    </section>
+      <!-- =========*****===========FAQ-Section-==================*****======================-->
+
+
+     <!-- ===================Need Documents-=======================================-->
+    <section class="sectionpanel DocPanelDiv" style="padding: 15px 0px;" id="DOCUMENTS">
+    <div class="container">
+    <div class="contentDiv">
+    <h3 class="heading">Need Documents</h3>
+    <div class="row">
+    <div class="col-lg-5 col-md-6">
+    <img src="./assets/img/pics.png" class="img-fluid sitemap" alt="">   
+    </div>
+    <div class="col-lg-7 col-md-6">
+    <ul class="list-inline listDoc">
+    <li>Online application form submission</li>
+    <li>PAN of the owner/owners</li>
+    <li>Aadhar Card</li>
+    <li>3 Months account statements in PDF format</li>
+    <li>Shop Picture</li>
+    <li>Shop Electricity Bill/Shop Affidavit</li>
+    </ul>        
+    </div>
+    </div><!-- end of row -->  
+    
+    </div>
+    </div><!-- end of container -->
+    </section>
+   <!-- =========*****==========Need Documents-==================*****======================-->
+
+  <!-- ====================Footer-========================================-->
+    <footer class="footerpanel" style="padding: 40px 0 0;background-color: #005ca9;" id="CONTACT">
+      <div class="container">
+    <div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-12">
+      <ul class="list-inline listfoot">
+        <h5>Useful Link</h5>
+      <li><a href="https://sreeleather.org/">Warranty Policy</a></li>
+      <li><a href="https://sreeleather.org/return-policy">Returns &amp; Cancellation Policy</a></li>
+      <li><a href="https://sreeleather.org/privacy-policy">Privacy Policy</a></li>
+      <li><a href="https://sreeleather.org/term-and-conditions">Term &amp; Conditions</a></li>
+      <li><a href="https://sreeleather.org/#">Sitemap</a></li>        
+    </ul>
+    </div><!-- end of col -->
+    <div class="col-lg-3 col-md-6 footer-links">
+    <ul class="list-inline listfoot">
+        <h5>Our Services</h5>
+      <li><a href="https://sreeleather.org/#">Sreeleathers Distributorship</a></li>
+      <li><a href="https://sreeleather.org/#">Sreeleathers Business</a></li>
+      <li><a href="https://sreeleather.org/#">Sreeleathers Partnership</a></li>
+      <li><a href="https://sreeleather.org/#">Sreeleathers Sales</a></li>
+    </ul>
+    </div>
+    
+    <div class="col-lg-6 col-md-6 col-sm-12 contactInfo">
+    <h5>Contact Us</h5>
+    <strong>Sreeleathers Limited.</strong><br>
+    <ul class="list-unstyled listadd">
+    <li>  Registration Number: 050656</li>
+    <li>  CIN: L67190WB1991PLC050656</li>
+    <li> <i class="fa fa-phone"></i>&nbsp;&nbsp; <a href="telto:8348396155"> +91-8348396155</a></li>
+    <li> <i class="fa fa-envelope"></i> &nbsp;&nbsp; <a href="telto:support@sreeleather.org"> support@sreeleather.org</a></li>
+    <li> <i class="fa fa-map-marker"></i> &nbsp; 6, Tottee Lane, P.S. Taltalla, Kolkata, West Bengal - 700016</li>
+    </ul>
+            <address>
+            </address>
+          </div><!-- end of col -->
+    </div><!-- end of row -->
+    </div><!-- end of container -->
+    <div class="copyright">
+    </div><!-- end of copyright -->
+    </footer>
+    
+    <footer class="footerPanel text-center">
+          <a style="width: 155px;margin:20px 6px;" class="fixed-bottom btn btn btn-success" href="tel:8348396155"><i class="fa fa-mobile" aria-hidden="true"></i> +91 8348396155</a>
+        
+      <!--<a href="https://sreeleather.org/story" class="fixed-bottom" style="max-width:100px;margin:20px;"><img style="width:100px" src="https://sreeleather.org/assets/front/images/story-img.png" /></a>-->
+      
+      <a href="#" class="btn btn btn-success" style="max-width:200px;margin:20px;position:fixed;right: 30px;bottom: 0;z-index: 999;">Apply Now</a>
+      
+      <div class="container">
+        <div class="copyright">All Rights Reserved. © 2022 Sreeleathers Limited</div>
+      </div>
+    </footer>
+ <!-- =========*****===========Footer==================*****======================-->
+    
+    <!-- <a href="https://sreeleather.org/#!" class="scrollToTop" style="display: block;"><i class="fa fa-angle-up fa-2x"></i></a> -->
+    </div><!-- end of wrapper -->
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        
+        <script>
+          var count = 0;
+          var inc = 0;
+          var margin = 0;
+          var slider = document.getElementsByClassName("slider-width")[0];
+          var itemDisplay = 0;
+          if(screen.width > 990){
+            itemDisplay = document.getElementsByClassName("slider-container")[0].getAttribute("item-display-d")
+            margin = itemDisplay * 5;
+          }
+          if(screen.width > 700 && screen.width < 990){
+            itemDisplay = document.getElementsByClassName("slider-container")[0].getAttribute("item-display-t")
+            margin = itemDisplay * 6.8;
+          }
+          if(screen.width > 280 && screen.width < 700){
+            itemDisplay = document.getElementsByClassName("slider-container")[0].getAttribute("item-display-m")
+            margin = itemDisplay * 20;
+          }
+         var item = document.getElementsByClassName("item");
+         var itemleft = item.length % itemDisplay;
+         var itemSlide = Math.floor(item.length / itemDisplay)- 1;
+       for(let i =0; i<item.length; i++){
+        item[i].style.width= screen.width / itemDisplay - margin + "px";
+      
+       }
+       function next(){
+         if(inc !== itemSlide + itemleft){
+          if(inc === itemSlide){
+            inc = inc + itemleft;
+            count = count - (screen.width / itemDisplay) * itemleft;
+          }
+          else{
+            inc ++;
+            count = count - screen.width;
+          }
+         }
+       
+        
+        slider.style.left= count + "px";
+       }
+      
+       function prev(){
+        if(inc !== 0){
+          if(inc === itemleft){
+            inc = inc - itemleft;
+            count = count + (screen.width / itemDisplay) * itemleft;
+          }
+          else{
+            inc --;
+            count = count + screen.width;
+          }
+         }
+       
+        
+        slider.style.left= count + "px";
+       }
+        </script>
+            
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="./assets/fontawesome-free-6.2.0-web/js/all.min.js"></script>
+
+ 
+  
+    </body>
